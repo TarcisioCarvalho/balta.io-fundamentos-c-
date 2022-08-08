@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\Teste.exe
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\Teste.deps.json
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\Teste.runtimeconfig.json
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\Teste.dll
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\ref\Teste.dll
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\bin\Debug\net6.0\Teste.pdb
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.AssemblyInfo.cs
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.dll
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\ref\Teste.dll
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.pdb
+C:\Users\tarci\Documents\balta.io-fundamentos-c-\Teste\obj\Debug\net6.0\Teste.genruntimeconfig.cache
